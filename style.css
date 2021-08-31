@@ -5,7 +5,7 @@
   --primary: #22d0ff;
   --secondary: #0a0b5b;
 }
-
+* {max-width: 100%;}
 /* reset */
 body,
 p,
